@@ -1,0 +1,3 @@
+#include "launch.hpp"
+
+template void launch_packed_attn<128, 16, 8, 128, true, false, true, false, true>(const Params& params, cudaStream_t stream);
