@@ -1,5 +1,7 @@
 # PackInfer
 
+This is the code for [PackInfer: Compute- and I/O-Efficient Attention for Batched LLM Inference](https://arxiv.org/abs/2602.06072)
+
 ## Installation
 
 ```bash
